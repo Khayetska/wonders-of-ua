@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Jomolhari';
+    src: url('/fonts/Jomolhari-Regular.ttf') format('truetype');
+}
+
+body {
+    font-family: 'Jomolhari', serif;
+    background-color: #141A19;
+    color: #fff;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
